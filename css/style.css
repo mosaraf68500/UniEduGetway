@@ -1,0 +1,17 @@
+[hidden]{display:none!important}
+@media (max-width:1099px){[data-js="hdr-wide"]{display:none!important}}
+@media (min-width:1100px){[data-js="hdr-narrow"],[data-js="hdr-menu"]{display:none!important}}
+@media (min-width:1240px){#courses{position:sticky!important}}
+.hv1:hover{color: rgb(31, 79, 159) !important;}
+.hv2:hover{background: rgb(31, 79, 159) !important;}
+.hv3:hover{background: rgb(31, 79, 159) !important; color: rgb(255, 255, 255) !important;}
+.hv4:hover{border-color: rgb(31, 79, 159) !important; color: rgb(31, 79, 159) !important;}
+.hv5:hover{border-color: rgb(185, 199, 232) !important; box-shadow: rgba(13, 42, 92, 0.08) 0px 18px 36px !important;}
+.hv6:hover{border-color: rgb(31, 79, 159) !important; box-shadow: rgba(13, 42, 92, 0.08) 0px 10px 24px !important;}
+.hv7:hover{color: rgb(241, 221, 168) !important;}
+.hv8:focus{border-color: rgb(31, 79, 159) !important; box-shadow: rgba(31, 79, 159, 0.12) 0px 0px 0px 4px !important;}
+.hv9:hover{transform: translateY(-2px) !important;}
+.hv10:hover{background: rgb(238, 243, 253) !important; color: rgb(13, 42, 92) !important;}
+.hv11:hover{border-color: rgb(185, 199, 232) !important; box-shadow: rgba(13, 42, 92, 0.08) 0px 18px 36px !important; color: rgb(22, 28, 45) !important;}
+.hv12:hover{border-color: rgb(185, 199, 232) !important; box-shadow: rgba(13, 42, 92, 0.07) 0px 18px 36px !important;}
+.hv13:hover{color: rgb(13, 42, 92) !important;}
